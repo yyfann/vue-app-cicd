@@ -9,7 +9,7 @@ export default {
   name: 'App',
   data() {
     return {
-      msg: 'jenkins!! 2'
+      msg: 'jenkins!! publish'
     }
   },
 }
